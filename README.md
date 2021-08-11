@@ -21,7 +21,7 @@
 
 ## <a name="Description"></a>Description
 
-A Portfolio attempted in React. Unfortunatley The portfolio I had finalized did not convery well into react, so this webpage does not function properly. I have hit my deadline, so no further work can be done.
+A Portfolio attempted in React. Unfortunatley, the portfolio I had finalized did not convert well into react, so this webpage does not function properly. I have hit my deadline, so no further work will be done as of the moment.
 
 ## <a name="Contributors"></a>Contributors
 
